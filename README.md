@@ -5,7 +5,9 @@
 ### Source & Binaries for Linux and Windows
 
 * Binaries: https://uasf.bitcoinreminder.com/ (signatures: https://github.com/UASF/gitian.sigs) 
+ * Ubuntu PPA: https://launchpad.net/~luke-jr/+archive/ubuntu/bitcoin-core-bip148-unofficial-builds
 * Source code: https://github.com/UASF/bitcoin/releases
+
 
 ### Other Information
 

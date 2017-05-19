@@ -1,11 +1,16 @@
 # Various stuff
 
+## Bitcoin UASF 
 
-## Namecoin
+### Source & Binaries for Linux and Windows
 
-### Namecoin Core 0.12 rc2 for armhf (Raspbian/Debian stretch/sid)
+* Binaries: https://uasf.bitcoinreminder.com/ (signatures: https://github.com/UASF/gitian.sigs) 
+* Source code: https://github.com/UASF/bitcoin/releases
 
-* https://www.dropbox.com/s/gyphy27m0l7yy0i/namecoin-core_0.12-1_armhf.deb (`SHA256: 43365d76d851b85dccc40b650036fe30abd993079b962a852b37dfc73910ae8d`) 
-* Source code: https://github.com/namecoin/namecoin-core/releases/tag/nc0.12.0rc2
+### Other Information
+
+* FAQs: http://www.uasf.co/
+* Slack: Bitcoin Core Slack, #uasf channel
+* /r/Bitcoin Subreddit Discussion: https://duckduckgo.com/?q=site%3Areddit.com+%22%2Fr%2Fbitcoin%22+uasf
 
 

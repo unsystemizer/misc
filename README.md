@@ -10,9 +10,9 @@
 
 ### How to Install
 
-If you're not an experienced Bitcoin user, you do **not have to use** UASF-specific install and configuration guides guides. 
+If you're not an experienced Bitcoin user, you **do NOT have to use** UASF-specific install and configuration guides. 
 
-UASF BIP148 is just a slightly different Bitcoin Core - so all Bitcoin Core 0.14 install guides apply to the UASF BIP148 version. Use whatever Bitcoin Core 0.14 instructions you find easy to follow.
+This UASF BIP148 release is just a very slightly different Bitcoin Core - so all Bitcoin Core 0.14 install guides and tutorials apply to the UASF BIP148 version. Use whatever Bitcoin Core 0.14 instructions you find easy to follow.
 
 Here's what you need to do:
 

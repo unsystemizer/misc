@@ -12,7 +12,7 @@
 
 If you're not an experienced Bitcoin user, you **do NOT have to use** UASF-specific install and configuration guides. 
 
-This UASF BIP148 release is just a very slightly different Bitcoin Core - so all Bitcoin Core 0.14 install guides and tutorials apply to the UASF BIP148 version. Use whatever Bitcoin Core 0.14 instructions you find easy to follow.
+This UASF BIP148 release is only slightly different Bitcoin Core; Bitcoin Core 0.14.2 install guides and tutorials apply to UASF BIP148 version. Use whatever Bitcoin Core 0.14 instructions you find easy to follow.
 
 Here's what you need to do:
 
@@ -37,9 +37,24 @@ Which binary to fetch?
 * Raspberry Pi 2 - arm-linux-gnueabihf.tar.gz
 * Windows - use the 32-bit installer executable, regardless of your OS (32-bit uses slightly less RAM)
 
+#### How to verify?
+
+Use `getnetworkinfo` to see your client information.
+
+```
+$ bitcoin-cli getnetworkinfo
+{
+  "version": 140200,
+  "subversion": "/Satoshi:0.14.2/UASF-Segwit:1.0(BIP148)/",
+  ...
+ }
+```
+
+
 ### Other Information
 
 * FAQs: http://www.uasf.co/
-* Slack: Bitcoin Core Slack, #uasf channel
-* /r/Bitcoin Subreddit Discussion: https://duckduckgo.com/?q=site%3Areddit.com+%22%2Fr%2Fbitcoin%22+uasf
+* Slack: go to Bitcoin Core Slack, join `#uasf channel` for general discussion, `#uasf-support` for installation support
+* /r/Bitcoin on Reddit: https://duckduckgo.com/?q=site%3Areddit.com+%22%2Fr%2Fbitcoin%22+uasf
+* /r/UASF subreddit: https://reddit.com/r/UASF
 

@@ -53,8 +53,8 @@ $ bitcoin-cli getnetworkinfo
 
 ### Other Information
 
-* FAQs: http://www.uasf.co/
-* Slack: go to Bitcoin Core Slack, join `#uasf channel` for general discussion, `#uasf-support` for installation support
+* FAQs: http://www.uasfguide.com
+* Slack: go to Bitcoin Core Slack, join `#uasf` channel for general discussion, `#uasf-support` for installation support
 * /r/Bitcoin on Reddit: https://duckduckgo.com/?q=site%3Areddit.com+%22%2Fr%2Fbitcoin%22+uasf
 * /r/UASF subreddit: https://reddit.com/r/UASF
 
